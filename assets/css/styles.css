@@ -7,36 +7,13 @@
 
 
 /*------------------------------------*\
-  #PAGE-BODY-IMPORT
+  #PAGES
 \*------------------------------------*/
 @import url('page-body.css');
-
-
-
-
-
-/*------------------------------------*\
-  #PAGE-CONTAINER-IMPORT
-\*------------------------------------*/
 @import url('page-container.css');
-
-
-
-
-
-/*------------------------------------*\
-  #PAGE-HEADER-IMPORT
-\*------------------------------------*/
 @import url('page-header.css');
-
-
-
-
-
-/*------------------------------------*\
-  #PAGE-NEWS-CONTAINER-IMPORT
-\*------------------------------------*/
 @import url('page-news-container.css');
+@import url('page-footer.css');
 
 
 
