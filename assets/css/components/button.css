@@ -1,0 +1,17 @@
+/*------------------------------------*\
+  #BUTTON
+\*------------------------------------*/
+/* Dropdown Button */
+.btn {
+    background-color: #2C302C;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+/* Dropdown button on hover & focus */
+.btn:hover, .btn:focus {
+    background-color: #CBD6CC;
+}

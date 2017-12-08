@@ -1,0 +1,19 @@
+/*------------------------------------*\
+  #PAGE-HEADER
+\*------------------------------------*/
+
+/**
+* The site's page header
+*/
+#page-header {
+  background-color: black;
+  height: 50px;
+  position: relative;
+}
+
+#page-header-title {
+  line-height: 50px;
+  vertical-align: middle;
+  margin-left: 20px;
+  color: white;
+}

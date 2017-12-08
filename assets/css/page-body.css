@@ -1,0 +1,12 @@
+/*------------------------------------*\
+  #PAGE-BODY
+\*------------------------------------*/
+
+/**
+* Body of page
+*/
+body {
+  background-color: #efefef;
+  margin: 0;
+  padding: 0;
+}
